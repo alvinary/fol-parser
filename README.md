@@ -59,7 +59,7 @@ not something more carefully planned) as of yet.
 that are already present will be fixed).
 
 ## What is Z3?
-Z3 is a satisfiability modulo theory solver: it is a first order logic solver
+Z3 is a satisfiability modulo theories solver: it is a first order logic solver
 (kinda like prolog, but for normal people) which also includes specialized
 machinery for working with theories such as integer arithmetic, bitvectors, sequences,
 and datatypes, and tricky relations like the transitive closure.
