@@ -74,6 +74,7 @@ It also includes specialized solvers for Horn clauses
 * Dump whole models to JSON files so users can do something useful with them.
 * Fix errors arising when using arithmetic.
 * Add support for datatypes.
+* Add support for comments.
 
 ## Long term ToDos
 * Define a sensible semantics for multi-variable model checking (stack pops might be useful).
